@@ -1,0 +1,13 @@
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\bin\Debug\Tinap.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\bin\Debug\Tinap.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\bin\Debug\Tinap.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.main.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.Resources.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.vbproj.GenerateResource.Cache
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.pdb
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\Tinap\Tinap\obj\Debug\Tinap.About.resources
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\VB\Tinap\Tinap\obj\Debug\Tinap.exe
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\VB\Tinap\Tinap\obj\Debug\Tinap.xml
+C:\Users\Mico_Ultrabook\Documents\Visual Studio 2013\Projects\VB\Tinap\Tinap\obj\Debug\Tinap.pdb
